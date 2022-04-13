@@ -7,7 +7,7 @@
 
 ---
 
-Hi im Alex im an RFID tinkerer, noise maker im also allergic to sharp objects and fire.
+Hi im Equip im a Cyber Security student and network engineer from the UK, Allergic to fire and sharp objects.
 
 Most of my respositories are private portfolio work but if you have any questions feel free to DM me on:
 
