@@ -6,19 +6,9 @@
 | :---: | :---: | :---: | :---: |
 
 ---
-<h3 align="center">Hi im Equip im a Cyber Security student and network engineer from the UK, Allergic to fire and sharp objects.</h3>
+<h3 align="center">Insufferable engineer, lego boy.</h3>
 
 <p align="left"> <a href="https://twitter.com/equip0x80" target="blank"><img src="https://img.shields.io/twitter/follow/equip0x80?logo=twitter&style=for-the-badge" alt="equip0x80" /></a> </p>
-
-- I’m currently working on [RFID Stuff](https://github.com/equipter/mfkey32v2)
-
-- I’m looking to collaborate on [FlipperZero RFID](https://github.com/flipperdevices/flipperzero-firmware)
-
-- I’m looking for help with [MfKey32v2 (need wrapper)](https://github.com/equipter/mfkey32v2)
-
-- 💬 Ask me about **RFID, BLE and SDR**
-
-- 📫 How to reach me **equipter@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
