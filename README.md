@@ -5,7 +5,7 @@
 *Possemus, et fecimus.*
 
 [![Discord](https://img.shields.io/badge/Discord-Join%20TPP-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/thepirates)
-[![Linktree](https://img.shields.io/badge/Linktree-My%20Site-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/shutupequip)
+[![Github.io](https://img.shields.io/badge/GitHub%20Pages-My%20Site-43E55E?style=for-the-badge&logo=github&logoColor=white)](https://equipter.github.io)
 [![Instagram](https://img.shields.io/badge/Instagram-@equipvscasamigos-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/equipvscasamigos)
 
 </div>
